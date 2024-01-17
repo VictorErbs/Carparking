@@ -25,6 +25,3 @@ O programa segue as seguintes regras para calcular o custo total do estacionamen
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Autor
-
-Este programa foi desenvolvido por Victor Erbs como parte de um exercício.
